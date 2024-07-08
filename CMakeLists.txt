@@ -14,6 +14,7 @@ add_executable(gossip-gloomers
 src/main.cc
 src/echo.cc
 src/initialization.cc
+src/idgen.cc
 )
 
 
